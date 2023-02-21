@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  # - torvalds
+  # - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - CAMP-eXplain-AI/InputIBA
+  - CAMP-eXplain-AI/Do-Explanations-Explain
+  - CAMP-eXplain-AI/PathwayGrad
+  - CAMP-eXplain-AI/RoarTorch
+  - CAMP-eXplain-AI/Style-CheXplain
+  - CAMP-eXplain-AI/CheXplain-IBA

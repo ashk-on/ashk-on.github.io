@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-21 16:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+As of March 1st, I will be a postdoc at [Torr Vision Group](https://torrvision.com/) at the University of Oxford :sparkles: 
