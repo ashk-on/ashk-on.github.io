@@ -18,9 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a postdoctoral researcher in machine learning at the [Torr](https://torrvision.com/) vision group ([Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en)) at the University of Oxford (since March 2023), focusing on explainable and robust machine learning. Previously I was a doctoral candidate at the Technical University of Munich ([TUM](https://www.cs.cit.tum.de/camp/members/ashkan-khakzar/)), where I worked on neural network explanation. My thesis referees were Prof. Bernt Schiele and Prof. Nassir Navab. Throughout my journey, I've had the opportunity to work on a wide range of fascinating topics in computer vision, deep learning, and their medical applications with [Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ&hl=en&oi=ao) and [Daniel Rueckert](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=daniel+rueckert&oq=danie) (TUM). Still lucky to be an affiliate researcher at the Munich Center for Machine Learning ([MCML](https://mcml.ai/publications/)). When I'm not working on research, I love exploring the great outdoors. 
-<!-- Hiking and immersing myself in nature are some of my favorite pastimes.  -->
-<!-- In my free time, I'm an avid reader and enjoy delving into books and lectures on computer science, philosophy, and the history of science. -->
+I'm a postdoctoral researcher in machine learning and computer vision working with [Philip Torr](https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en) at the University of Oxford. I am driven by my curiosity about understanding how intelligence emerges in neural networks through learning. Thus my PhD research was focused on how to interpret neural networks, and I was lucky to have this experience at the Technical University of Munich (TUM). I was inspired throughout my entire PhD journey by my supervisor, [Nassir Navab](https://scholar.google.com/citations?user=kzoVUPYAAAAJ&hl=en&oi=ao). I am very thankful to [Bernt Schiele](https://scholar.google.com/citations?user=z76PBfYAAAAJ&hl=en&oi=ao) for reviewing my PhD research and inspiring me with his ideas. These days I am following the same vision in the context of vision-language foundation models.
+
+<!-- Still lucky to be an affiliate researcher at the Munich Center for Machine Learning ([MCML](https://mcml.ai/publications/)). 
+
+[Daniel Rueckert](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=daniel+rueckert&oq=danie).
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

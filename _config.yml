@@ -66,8 +66,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: CAMP-eXplain-AI # your GitHub user name
-gitlab_username: # your GitLab user name
+github_username: # your GitHub user name
+gitlab_username: # your GitLab user name CAMP-eXplain-AI
 twitter_username: ashk__on # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: ashkankhakzar # your LinkedIn user name
@@ -86,7 +86,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
-stackoverflow_id: 5041424 # your stackoverflow id
+stackoverflow_id: # your stackoverflow id 5041424 
 kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
