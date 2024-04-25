@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2023-03-02 16:59:00-0400
+date: 2024-04-24 16:59:00-0400
 inline: true
 ---
-
-2 papers accepted in [MIDL](https://2023.midl.io/) and [IPMI](https://www.ipmi2023.org/en/)
+Invited speaker at [Trustworthy Multimodal Learning with Foundation Models](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) event organised by British Machine Vision Assosication. Talk title: Understanding Foundation Models through Interpretation and Evaluation
