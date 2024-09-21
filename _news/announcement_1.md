@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-21 16:59:00-0400
+date: 2024-09-20 16:00:00-0400
 inline: true
 ---
 
-As of March 1st, I will be a postdoc at [Torr Vision Group](https://torrvision.com/) at the University of Oxford :sparkles: 
+Check out our [ECCV 2024 workshop](https://eccv2024.ecva.net/Conferences/2024/Workshops): [Emergent **Visual** Abilities and Limits of Foundation Models](https://sites.google.com/view/eval-fomo-24/home).
