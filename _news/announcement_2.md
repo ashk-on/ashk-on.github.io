@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-04-24 16:59:00-0400
+date: 2024-04-24 16:59:01-0400
 inline: true
 ---
 Invited speaker at [Trustworthy Multimodal Learning with Foundation Models](https://www.bmva.org/meetings/24-04-24-Multimodal%20Learning.html) (British Machine Vision Assosication).  
