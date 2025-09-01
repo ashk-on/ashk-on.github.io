@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-04-20 16:00:01-0400
+date: 2025-06-10 18:00:01-0400
 inline: true
 ---
 
+Check out our ICML 2025 [work](https://arxiv.org/abs/2503.07639) on making interpretable sparse wide neurl networks possible leveraging sparsity and mixture-of-experts tricks.
 
-We have a clever trick to identify (and remove) [important neurons for a concept through time steps in duffion models](https://arxiv.org/abs/2412.02852), which we present in ICLR 2025 Scope workshop.
 

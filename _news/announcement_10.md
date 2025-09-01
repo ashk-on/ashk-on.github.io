@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-04-20 16:00:01-0400
+date: 2025-06-01 16:00:01-0400
 inline: true
 ---
 
+We have done some digging into how multimodal LLMs process visual information. Check out our workshop [paper](https://openreview.net/forum?id=VUhRdZp8ke) at CVPR 2025 Mechnasitic Interpretability for Vision workshop and our [paper](https://arxiv.org/abs/2506.11976) at CVPR 2025 XAI4CV.
 
-We have a clever trick to identify (and remove) [important neurons for a concept through time steps in duffion models](https://arxiv.org/abs/2412.02852), which we present in ICLR 2025 Scope workshop.
 
